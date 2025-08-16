@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sanjit Singh
 
-<!--
-**Birdpooper/Birdpooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m **Sanjit Singh**, a 16-year-old, self-taught web and software developer from Nepal, currently studying in Grade 11. I love building creative and functional applications, learning new technologies, and collaborating on exciting projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+-  Grade 11 student
+-  Self-taught software developer
+-  Tech Stack:
+
+  `HTML` | `CSS` | `JavaScript` | `PHP` | `SQL` | `C#` | `C++`
+
+---
